@@ -3,6 +3,7 @@ uvicorn[standard]
 python-multipart
 python-dotenv
 pydantic
+pydantic-settings
 groq
 langchain
 langchain-community
