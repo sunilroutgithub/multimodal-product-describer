@@ -1,17 +1,3 @@
-<!-- ---
-title: Multimodal Product Describer
-emoji: 📉
-colorFrom: gray
-colorTo: blue
-sdk: docker
-pinned: false
-license: mit
-short_description: Product description generator using Groq vision AI
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference -->
-
-
 
 # 🖼️ Multimodal Product Description Generator
 
@@ -257,14 +243,28 @@ Hugging Face: sunil9938
 
 Live API: https://sunil9938-multimodal-product-describer.hf.space/docs
 
-🏷️ Topics
-text
-multimodal-ai product-description computer-vision groq llama3 fastapi
-docker huggingface ci-cd ai-integration ecommerce seo image-processing
-machine-learning api-development python
-Made with ❤️ by Sunil Kumar Rout
+## 🏷️ Topics
 
-text
+- multimodal-ai
+- product-description
+- computer-vision
+- groq
+- llama3
+- fastapi
+- docker
+- huggingface
+- ci-cd
+- ai-integration
+- ecommerce
+- seo
+- image-processing
+- machine-learning
+- api-development
+- python
+
+---
+
+Made with ❤️ by Sunil Kumar Rout
 
 ---
 
