@@ -268,4 +268,3 @@ text
 
 ---
 
-Copy this entire block and paste it into your `README.md` file. This is comprehensive, professional, and includes all the details recruiters look for! 🚀
